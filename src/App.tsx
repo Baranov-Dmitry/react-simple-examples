@@ -1,9 +1,8 @@
+import Form from "./Form";
 
 function App() {
   return (
-    <div className="App">
-      Holla from APP
-    </div>
+    <Form />
   );
 }
 
